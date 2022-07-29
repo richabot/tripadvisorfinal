@@ -1,0 +1,46 @@
+.signupflex{
+    display: flex;
+    
+}
+.signupmain{
+    width: 40%;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 60px;
+}
+.signupinputdiv{
+    margin-left: 20px;
+}
+
+.mailinput{
+    margin-right: 10px;
+}
+.signupcheck{
+    display: flex;
+    font-size: 14px;
+    font-family: "Trip Sans VF', 'Trip Sans', Arial, sans-serif ";
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mailjoin{
+    margin-left: 10px;
+   
+}
+.blackdiv>p{
+    margin:auto;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+.signupheading{
+    font-size: 27px;
+    font-family: "Trip Sans VF', 'Trip Sans', Arial, sans-serif ";
+    font-weight: bold;
+    margin-left: 20px;
+
+
+}

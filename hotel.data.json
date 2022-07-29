@@ -1,0 +1,105 @@
+{
+    "hotels":[
+        {
+            "id": 1,
+            "title": "1. Holiday Inn Resort Goa, An IHG Hotel",
+            "Price": "₹11,771",
+            "img_": "https://media-cdn.tripadvisor.com/media/photo-s/22/1f/a5/23/hotel-aerial-view.jpg",
+            "isFreeCancellation": true,
+            "isReserverNowPatAtStay": true,
+            "isFiveStar": true,
+            "category": "5star"
+        },
+        {
+            "id": 2,
+            "title": "2. Sterling Goa- Varca",
+            "Price": "₹4,602",
+            "img_": "https://media-cdn.tripadvisor.com/media/photo-s/1b/73/3c/bc/evening-shot.jpg",
+            "isFreeCancellation": true,
+            "isReserverNowPatAtStay": false,
+            "isFiveStar": false,
+            "category": "4star"
+        },
+        {
+            "id": 3,
+            "title": "3. ibis Styles Goa Calangute Resort",
+            "Price": "₹5,140",
+            "img_": "https://media-cdn.tripadvisor.com/media/photo-s/0d/7e/6a/f6/hotel-ibis-styles-goa.jpg",
+            "isFreeCancellation": true,
+            "isReserverNowPatAtStay": true,
+            "isFiveStar": false,
+            "category": "3star"
+        },
+        {
+            "id": 4,
+            "title": "4. Caravela Beach Resort",
+            "Price": "₹10,619",
+            "img_": "https://media-cdn.tripadvisor.com/media/photo-s/15/db/57/ea/caravela-beach-resort.jpg",
+            "isFreeCancellation": true,
+            "isReserverNowPatAtStay": true,
+            "isFiveStar": true,
+            "category": "2star"
+        },
+        {
+            "id": 5,
+            "title": "5. Novotel Goa Resort & Spa",
+            "Price": "₹8,399",
+            "img_": "https://media-cdn.tripadvisor.com/media/photo-s/23/b1/15/38/exterior-view.jpg",
+            "isFreeCancellation": true,
+            "isReserverNowPatAtStay": true,
+            "isFiveStar": true,
+            "category": "1star"
+        },
+        {
+            "id": 6,
+            "title": "6. Fairfield by Marriott Goa Benaulim",
+            "Price": "₹6,047",
+            "img_": "https://media-cdn.tripadvisor.com/media/photo-s/24/3e/ec/d2/outdoor-pool.jpg",
+            "isFreeCancellation": false,
+            "isReserverNowPatAtStay": true,
+            "isFiveStar": true,
+            "category": "5star"
+        },
+        {
+            "id": 7,
+            "title": "7. The LaLiT Golf & Spa Resort Goa",
+            "Price": "₹9,824",
+            "img_": "https://media-cdn.tripadvisor.com/media/photo-s/06/20/29/1b/the-lalit-golf-spa-resort.jpg",
+            "isFreeCancellation": false,
+            "isReserverNowPatAtStay": false,
+            "isFiveStar": false,
+            "category": "4star"
+        },
+        {
+            "id": 8,
+            "title": "8. Regenta Inn Palacio De Goa",
+            "Price": "₹3,175",
+            "img_": "https://media-cdn.tripadvisor.com/media/photo-s/22/1f/a5/23/hotel-aerial-view.jpg",
+            "isFreeCancellation": false,
+            "isReserverNowPatAtStay": false,
+            "isFiveStar": false,
+            "category": "2star"
+        }
+        ,
+        {
+            "id": 9,
+            "title": "9. Golden Tulip Goa Candolim",
+            "Price": "₹6,209",
+            "img_": "https://media-cdn.tripadvisor.com/media/photo-s/23/e4/df/0d/golden-tulip-goa-candolim.jpg",
+            "isFreeCancellation": false,
+            "isReserverNowPatAtStay": false ,
+            "isFiveStar": true,
+            "category": "2star"
+        },
+        {
+            "id": 10,
+            "title": "10. Taj Exotica Resort & Spa Goa",
+            "Price": "₹18,290",
+            "img_": "https://media-cdn.tripadvisor.com/media/photo-s/1c/e6/6e/be/exoticaaerial.jpg",
+            "isFreeCancellation": false,
+            "isReserverNowPatAtStay": false,
+            "isFiveStar": false,
+            "category": "1star"
+        }
+    ]
+}

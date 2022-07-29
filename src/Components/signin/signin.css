@@ -1,0 +1,58 @@
+.mailinput{
+    margin-top: 10px;
+    width: 90%;
+    height: 50px;
+    border: 1px solid black;
+ 
+ }
+ .blackdiv{
+     width: 70%;
+     height: 50px;
+     background-color: black;
+     color: white;
+     border-radius: 25px;
+     margin: auto;
+     text-align: center;
+     display: flex;
+     align-items: center;
+     cursor: pointer;
+ }
+ .blackdiv>p{
+     margin:auto;
+ }
+ .signinmain{
+     width: 40%;
+     margin: auto;
+     border: 1px solid black;
+     margin-top: 60px;
+ }
+ .mailjoin{
+     margin: auto;
+     margin-top: 20px;
+ }
+ .emailforgot{
+     margin-top: 20px;
+     margin-bottom: 20px;
+     text-decoration: underline;
+ }
+ .signininputdiv{
+     margin-left: 20px;
+ }
+ .mailJoin{
+     text-decoration: underline;
+     font-weight: bold;
+ }
+ .maildiv{
+     text-align: center;
+     margin-top: 30px;
+ }
+ .mailtext{
+     font-family: Arial,Tahoma,Bitstream Vera Sans,sans-serif;
+     font-size: 12px;
+     text-align: center;
+     margin-top: 20px;
+ 
+ }
+ .emailInputHeading{
+     margin-top: 15px;
+ }

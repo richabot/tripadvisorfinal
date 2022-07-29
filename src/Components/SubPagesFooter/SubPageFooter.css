@@ -1,0 +1,41 @@
+footer {
+    background-color: #faf1ed;
+    padding: 30px 0;
+    text-align: left;
+  }
+  footer section {
+    display: flex;
+  }
+  
+  .currancy {
+    flex: 1;
+  }
+  footer img {
+    width: 40px;
+    margin-right: 30px;
+  }
+  
+  .currancy {
+    display: flex;
+  }
+  .currancy > div {
+    background-color: #fff;
+    border-radius: 10px;
+    height: 40px;
+    width: 200px;
+    border: solid gray 1px;
+    padding: 10px 5px;
+    box-sizing: border-box;
+    flex: 1;
+    margin-left: 5px;
+  }
+  
+  .link-footer {
+    flex: 4;
+  }
+  
+  footer p {
+    font-size: 11px;
+    margin-top: 5px;
+    width: 70%;
+  }

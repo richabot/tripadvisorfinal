@@ -1,0 +1,29 @@
+.leftdiv{
+    /* border: 1px solid red; */
+    width: 50%;
+    height: 800px;
+    /* display: flex; */
+    margin: 30px;
+    text-align: left;
+
+}
+.rightdiv{
+    margin: 30px;
+    /* border:1px solid blue; */
+    height: 800px;
+    width:100%;
+    /* display: flex; */
+
+}
+.main{
+    display: flex;
+    margin-left:150px;
+}
+
+.circles {
+    display: flex;
+    /* background-color: green; */
+    margin-right: 15px;
+    color: #84e9bd;
+    /* font-weight: :500; */
+  }

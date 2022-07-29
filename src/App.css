@@ -1,0 +1,22 @@
+
+.App {
+  text-align: center;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+  scroll-behavior: unset;
+}
+
+  
+
+
+body {
+  font-family: Arial,Tahoma,sans-serif;
+  padding: 0 3rem;
+
+}
+

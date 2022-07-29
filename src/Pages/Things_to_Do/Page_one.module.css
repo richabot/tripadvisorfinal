@@ -1,0 +1,32 @@
+.bike{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 5px;
+    /* border: 1px solid blue; */
+}
+.bike p{
+text-align: left;
+font-family: Arial, sans-serif;
+color: #1a1919;
+font-weight: 700;
+line-height: 24px;
+
+}
+
+.btn{
+    border: 1px solid black;
+    height:'40px';
+    width:'80px';
+    margin-top:70px;
+    margin-right:'120px'
+}
+.greenmini{
+    display: flex;
+    flex-direction: row;
+    width: 65px;
+    justify-content: space-evenly;
+
+    align-items:center;
+}
+.pch{
+    margin: -20px 6px 3px 0px}
